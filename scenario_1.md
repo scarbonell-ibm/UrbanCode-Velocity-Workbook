@@ -32,7 +32,7 @@ ___
 2. Setup data sources
    1. Create integrations
       1. [JIRA](jira/jiraIntegration.md)
-      2.	GitHub
+      2.	[GitHub][github/githubIntegration.md]
       3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
    2.	Add integrations to value stream
    3.	Confirm that integrations are working

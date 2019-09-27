@@ -1,10 +1,11 @@
-UrbanCode Velocity
-VSM Workbook
+UrbanCode Velocity Workbook
 v1.0 (9/24/2019)
 
-### [Scenario 1: Basic Value Stream Management (VSM) with JIRA, GitHub, Jenkins](scenario_1.md)
+## [Scenario 1: Basic Value Stream Management (VSM) with JIRA, GitHub, Jenkins](scenario_1.md)
 
 The goal of this scenario is to create a brand-new value stream along with supporting integrations and to exercise it from beginning to end.
+
+Our first step will be to create and frame-out a new value stream by defining its phases and stages. We will be introduced to the VSM json file and its configuration importance. After this, we will setup our three data sources. Jenkins data is automatically included within value streams; however, JIRA and GitHub must be setup as integrations (Jenkins will also require integration setup in future versions of Velocity - current version is 1.3.0). Integration setup will be a three-step process: creation, addition, confirmation. Next, we will create stage queries. These provide logical mapping of external data to our value stream stages of interest. After this we will provide link rules to serve as another type of mapping, which is to map fragmented data to a single unit of interest. In the value stream paradigm, this unit of interest is a work item and is represented by a dot.  We can track this dot as it moves through our logically defined stages. Our end goal is to mimic actions of planning through deployment and observe the dot as it moves through these stages. Our supplementary goal is to experiment with value stream features such as dot behavior, stage definitions, pipelines, and history to learn its flexibility and imagine the value it might bring to one’s process.
 
 #### Before Starting
 1. UrbanCode Velocity
@@ -23,14 +24,14 @@ The goal of this scenario is to create a brand-new value stream along with suppo
    2.	Jenkins host system
 ___
 
-#### Getting Started
+#### Workbook
 1. [Frame New Value Stream](valueStream/valueStream.md)
    1.	Create new value stream
    2.	Define stages: Introduction to VSM json
 2. Setup data sources
    1. Create integrations
       1. [JIRA](jira/jiraIntegration.md)
-      2.	GitHub
+      2.	[GitHub](github/githubIntegration.md)
       3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
    2.	Add integrations to value stream
    3.	Confirm that integrations are working
@@ -39,3 +40,9 @@ ___
 5. Full run of value stream
    1.	Perform external actions from planning to deployment
    2.	Experiment with order of actions and value stream setup
+
+
+___
+
+   *This content is supplemental. Please also refer to version specific product documentation.*
+![Documentation can be accessed in the upper right of Velocity](general/docs.gif)

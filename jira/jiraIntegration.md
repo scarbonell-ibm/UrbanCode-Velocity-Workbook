@@ -1,7 +1,8 @@
+# Integrating with Jira
 
-### Documentation
+#### Documentation
 https://www.urbancode.com/plugindoc/jira-4/
 
-### YouTube Video
+#### YouTube Video
 (click)
-[![WATCH VIDEO](jiraIntegration.gif)](https://www.youtube.com/watch?v=keF_vU7t6qo)
+[![WATCH VIDEO](jiraIntegration.gif)](https://www.youtube.com/watch?v=FjL2iJeVrKM)
