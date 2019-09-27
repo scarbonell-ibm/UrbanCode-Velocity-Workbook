@@ -24,7 +24,8 @@ Our first step will be to create and frame-out a new value stream by defining it
    2.	Jenkins host system
 ___
 
-#### Workbook
+#### Scenario 1
+Follow these steps with details provided in the links below.
 1. [Frame New Value Stream](valueStream/valueStream.md)
    1.	Create new value stream
    2.	Define stages: Introduction to VSM json
