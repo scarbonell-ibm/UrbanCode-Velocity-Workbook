@@ -29,7 +29,7 @@ ___
    2.	Define stages: Introduction to VSM json
 2. Setup data sources
    1. Create integrations
-      1. [JIRA](jira/jiraIntegration.gif)
+      1. [JIRA](jira/jiraIntegration.md)
       2.	GitHub
       3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
    2.	Add integrations to value stream
