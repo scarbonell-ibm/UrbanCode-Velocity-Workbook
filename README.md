@@ -1,15 +1,15 @@
 UrbanCode Velocity Workbook
-v1.0 (9/24/2019)
+last updated for Velocity 1.3.0
 
-## Scenario 1: Basic Value Stream Management (VSM) with JIRA, GitHub, Jenkins
+## Scenario 1: Introduction to Value Streams (with JIRA, GitHub, Jenkins)
 
-The goal of this scenario is to create a brand-new value stream along with supporting integrations and to exercise it from beginning to end.
+**Goal:** Create a value stream with Jira, Github, and Jenkins integrations and excercise it from beginning to end.
 
-First, we will create the integrations that we need. This is mostly done through the Velocity settings page; however, we will need information about the external tools we're integrating. In the case of Jenkins, we will need to install the UrbanCode Velocity plugin on the Jenkins server.
+First, we will create the integrations that we need. This is mostly done through the Velocity settings page with some inclusion of the external tools we're integrating. In the case of Jenkins, we will need to install the UrbanCode Velocity plugin on the Jenkins server.
 
-After creating integrations, we will frame-out a new value stream by defining its phases and stages. We will be introduced to the VSM json file and its configuration importance. The Jira and GitHub integrations will need to be added to the value stream via the vsm.json file; however, the Jenkins integration will be automatically included in the value stream so long as the integration exists (Jenkins will require vsm.json entry in future versions of Velocity). After this, we will create stage queries. These provide logical mapping of external data to our value stream stages of interest. We will then provide link rules to map data from different sources to a single unit of interest (a work item or "dot").  We can track this dot as it moves through our logically defined stages.
+After creating integrations, we will frame-out a [new value stream](valueStream/valueStream.md) by defining its phases and stages. We will be introduced to the vsm.json file and its configuration importance. We will use this file to [add the Jira and GitHub integrations](addIntegrations/addIntegrations.md) to the value stream (the Jenkins integration does not need to be added this way). After this, we will create [stage queries](valueStream/stageQueries/stageQueries.md) to map work item state to particular stages. We will then create [link rules](valueStream/linkRules/linkRules.md) to map data from different sources to a single unit of interest (a work item or "dot").
 
-Our end goal is to mimic actions of planning through deployment and observe the dot as it moves through these stages. Our supplementary goal is to experiment with value stream features such as dot behavior, stage definitions, pipelines, and history to learn its flexibility and imagine the value it might bring to one’s process.
+Finally, we can mimic process activity between Velocity and external tools, all the way from planning to deployment, and observe the dot as it moves through these stages. It's a good idea to experiment with the value stream features such as dot behavior, stage definitions, pipelines, and history while imagining the value it can bring to your own processes.
 
 ### Before Starting
 1. UrbanCode Velocity
