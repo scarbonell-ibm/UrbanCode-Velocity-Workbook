@@ -40,9 +40,7 @@ Follow each step (follow links for details).
    1.	Perform external actions from planning to deployment
    2.	Experiment with order of actions and value stream setup
 
-**--- YouTube Playlist --- **
-** >> [UrbanCod Velocity Workbook](https://www.youtube.com/playlist?list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC).**
-
+*--- YouTube Playlist ---*
 [![YouTube Playlist](general/YouTubePlaylist.PNG)](https://www.youtube.com/playlist?list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC)
 
 ___
