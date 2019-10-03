@@ -16,13 +16,14 @@ Our first step will be to create and frame-out a new value stream by defining it
       1.	JIRA (on premise or cloud)
       2.	GitHub (on premise or cloud)
       3.	Jenkins (on premise)
-   2.	Network
-   1.	Velocity has network access to instances of the following: JIRA, GitHub, and Jenkins
-   2.	The following have network access to Velocity: Jenkins
+   2. Network
+      1.	Velocity has network access to instances of the following: JIRA, GitHub, and Jenkins
+      2.	The following have network access to Velocity: Jenkins
 3. Host system access (nice to have)
    1.	Velocity host system
    2.	Jenkins host system
-___
+
+---
 
 ### Scenario 1
 
