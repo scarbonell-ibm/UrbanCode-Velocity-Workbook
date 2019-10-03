@@ -1,21 +1,22 @@
 
-# Creating and Configuring a New Value Stream.
+**1. [Creating a new value stream](newValueStream/newValueStream.md)**
+**2. [Value stream stage queries](stageQueries/stageQueries.md)**
 
-### 1.) Navigate to the Value Streams page and click "Create"
-![Jenkins Global Config Page](media/1.png)
-### 2.) Name your value stream and select the appropriate team. A detailed description is optional.
-![Jenkins Global Config Page](media/2.png)
-### 3.) Download the default (sample) configuration json file to start editing your value stream.
-![Jenkins Global Config Page](media/3.png)
-### 4.) Edit the "sample-vsm.json" file as needed. A good way to start is by defining your phases (left-to-right sections) and stages (circles).
-![Jenkins Global Config Page](media/4.png)
-### 5.) After done with editing the configuration file (sample-vsm.json), upload to observe the new configuration.
-![Jenkins Global Config Page](media/5.png)
+### Introduction to the Value Stream
 
-<br/><br/>
-<br/><br/>
-___
-### Demo Video
-[Watch on YouTube](https://www.youtube.com/watch?v=eQNYkeReOYo)
-___
-[![WATCH VIDEO](media/newValueStream.gif)](https://www.youtube.com/watch?v=eQNYkeReOYo)
+The concept of the value stream is to visualize work item progress through a series of stages (or states). UrbanCode Velocity Value Streams are flexible, interactive, and informative: consolidating the data from large and complex processes into a single interface bringing to surface metrics and key performance indicators (KPIs) with plenty of details under the hood.
+
+\>> [More about value streams here](https://mediacenter.ibm.com/media/What+is+Value+Stream+ManagementF/1_6t0uxrn6/73629892)
+
+---
+
+### Basics of UrbanCode Velocity Value Streams
+
+**1. Value Stream Management (VSM) json file**
+UrbanCode Velocity value streams are fully configurable by downloading and uploading a value stream management (VSM) json file.
+
+<img src="vsmUploadDownload.png" alt="drawing" style="width:300px;"/>
+<br/></br>
+
+**2. Organized as stages within phases**
+![Value Stream Graphic](media/overview.png)

@@ -25,25 +25,24 @@ Our first step will be to create and frame-out a new value stream by defining it
 ___
 
 #### Scenario 1
+
 Follow these steps with details provided in the links below.
-1. [Frame New Value Stream](valueStream/valueStream.md)
-   1.	Create new value stream
-   2.	Define stages: Introduction to VSM json
+1. [Create a new Value Stream](valueStream/valueStream.md)
 2. Setup data sources
    1. Create integrations
       1. [JIRA](jira/jiraIntegration.md)
       2.	[GitHub](github/githubIntegration.md)
       3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
    2.	Add integrations to value stream
-   3.	Confirm that integrations are working
-3. Create stage queries
-4. Create link rules
+      1. [Value Stream Stage Queries]
+      2. [Value Stream Link Rules]
 5. Full run of value stream
    1.	Perform external actions from planning to deployment
    2.	Experiment with order of actions and value stream setup
 
+All workbook videos are included in the YouTube playlist for ["UrbanCod Velocity Workbook"](https://www.youtube.com/playlist?list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC).
+[![YouTube Playlist](general/YouTubePlaylist.png)](https://www.youtube.com/playlist?list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC)
 
 ___
-
-   *This content is supplemental. Please also refer to version specific product documentation.*
-![Documentation can be accessed in the upper right of Velocity](general/docs.gif)
+*This content is supplemental. Please also refer to version specific product documentation.*
+![Documentation can be accessed in the upper right of Velocity](general/docs.png)
