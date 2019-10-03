@@ -32,7 +32,7 @@ Follow each step (follow links for details).
    1. [Jira](jira/jiraIntegration.md)
    2.	[GitHub](github/githubIntegration.md)
    3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
-2.	Setup value stream
+2. Setup value stream
    1. [Create a new Value Stream](valueStream/valueStream.md)
    2. [Configure value stream stage queries](valueStream/stageQueries/stageQueries.md)
    3. [Configure value stream link rules](valueStream/linkRules/linkRules.md)
