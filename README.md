@@ -1,4 +1,4 @@
-UrbanCode Velocity Workbook
+UrbanCode Velocity Workbook\
 last updated for Velocity 1.3.0
 
 ## Scenario 1: Introduction to Value Streams (with JIRA, GitHub, Jenkins)
@@ -14,6 +14,12 @@ After creating integrations, we will frame-out a [new value stream](valueStream/
 Finally, we can mimic process activity between Velocity and external tools, all the way from planning to deployment, and observe the dot as it moves through these stages. It's a good idea to experiment with the value stream features such as dot behavior, stage definitions, pipelines, and history while imagining the value it can bring to your own processes.
 
 ### Before Starting
+
+**Understanding the Basics**
+1. [Integrations](general/plugins/plugins.md)
+2. [Value Streams](valueStream/valueStream.md)
+
+**Checklist**
 1. UrbanCode Velocity
    1.	Installed
     2.	Access to user account with roles/permissions to create a value stream and add integrations.
@@ -31,7 +37,7 @@ Finally, we can mimic process activity between Velocity and external tools, all 
 
 ---
 
-### Workbook Outline
+### Getting Started
 
 Follow each step (follow links for details).
 

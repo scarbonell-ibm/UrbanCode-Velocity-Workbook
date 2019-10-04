@@ -1,8 +1,8 @@
 
 # Creating and Configuring a New Value Stream.
 
-**[Watch on YouTube](https://www.youtube.com/watch?v=eQNYkeReOYo)**
-[![WATCH VIDEO](newValueStream.gif)](https://www.youtube.com/watch?v=eQNYkeReOYo)
+**[Watch on YouTube](https://www.youtube.com/watch?v=eQNYkeReOYo&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)**
+[![WATCH VIDEO](newValueStream.gif)](https://www.youtube.com/watch?v=eQNYkeReOYo&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)
 
 [sampleVsm.json](sampleVsm.md)
 

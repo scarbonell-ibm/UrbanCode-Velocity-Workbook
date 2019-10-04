@@ -8,7 +8,7 @@ With this Jenkins plugin, you can run Jenkins jobs as a part of a deployment pla
 
 ### 1. Install the UrbanCode Velocity plugin on your Jenkins instance
 
-[![WATCH VIDEO](media/jenkinsUcvPlugin-longer.gif)](https://www.youtube.com/watch?v=hImv5Xcsr58)
+[![WATCH VIDEO](media/jenkinsUcvPlugin-longer.gif)](https://www.youtube.com/watch?v=hImv5Xcsr58&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)
 
 Navigate to the plugins page on your Jenkins instance by clicking `Manage Jenkins > Manage Plugins > Available (tab)` and search for `UrbanCode Velocity Plugin`.  When located install the plugin and restart your instance when possible.
 
@@ -20,7 +20,7 @@ If the plugin is not available in the Jenkins publically hosted plugins, please 
 ### 2. Configure Velocity Plugin after Creating a Corresponding Integration in UrbanCode Velocity
 
 
-[![WATCH VIDEO](media/CreateConfigureJenkins.gif)](https://www.youtube.com/watch?v=keF_vU7t6qo)
+[![WATCH VIDEO](media/CreateConfigureJenkins.gif)](https://www.youtube.com/watch?v=keF_vU7t6qo&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)
 
 Navigate to the Settings Page of UrbanCode Velocity and select the Integrations section in the left navigation. Create a new Jenkins integration.
 
