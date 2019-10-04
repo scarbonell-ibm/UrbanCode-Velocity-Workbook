@@ -41,14 +41,18 @@ Follow each step (follow links for details).
    3. [Jenkins](jenkinsPlugin/jenkinsPlugin.md)
 2. Setup value stream
    1. [Create a new Value Stream](valueStream/valueStream.md)
-   2. [Configure value stream stage queries](valueStream/stageQueries/stageQueries.md)
-   3. [Configure value stream link rules](valueStream/linkRules/linkRules.md)
+   2. [Adding integrations](valueStream/addIntegrations/addIntegrations.md)
+   3. [Stage queries](valueStream/stageQueries/stageQueries.md)
+   4. [Link rules](valueStream/linkRules/linkRules.md)
 3. Move items through value stream
    1.	Perform external actions from planning to deployment
    2.	Experiment with order of actions and value stream setup
 
 *--- YouTube Playlist ---*
 [![YouTube Playlist](general/YouTubePlaylist.PNG)](https://www.youtube.com/playlist?list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC)
+
+<br/><br/>
+<br/><br/>
 
 ---
 *This content is supplemental. Please also refer to version specific product documentation.*
