@@ -27,7 +27,7 @@ Value stream stage queries are used to determine which work items or dots appear
 
 
 #### Video
+*Example json from video: [before](vsmBefore.md), [after](vsmAfter.md), [changes](diff.html)*
 
-[Value Stream Stage Queries YouTube Video](https://www.youtube.com/watch?v=dGqLMfeEpi0&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)
+[![Value Stream Stage Queries YouTube Video](diff.png)](https://www.youtube.com/watch?v=dGqLMfeEpi0&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=8&t=0s)
 
-*json content for video: [before](vsmBefore.md), [after](vsmAfter.md), [changes](diff.html)*

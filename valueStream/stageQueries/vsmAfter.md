@@ -2,7 +2,7 @@
 {
   "_id": "5d93994e61b513280db74e59",
   "pipelineId": "fe0758c9-09d2-4f24-81fe-d5c85b8ced4d",
-  "tenantId": "5ade13625558f2c6688d15ce",
+  "tenantId": "123p498fp9832y4iuhsfu",
   "description": null,
   "query": "",
   "phases": [
@@ -105,12 +105,12 @@
     {
       "_id": "5d8f9b54a7be2471b38011b9",
       "type": "ucv-ext-github",
-      "tenant_id": "5ade13625558f2c6688d15ce",
-      "name": "d_app 🚀 (GitHub)",
+      "tenant_id": "123p498fp9832y4iuhsfu",
+      "name": "d_app (GitHub)",
       "properties": {
-        "url": "https://github.com/UrbanCodeVelocity/d_app",
+        "url": "https://github.com/owner/d_app",
         "name": "d_app",
-        "owner": "UrbanCodeVelocity",
+        "owner": "owner",
         "apiUrl": "https://api.github.com",
         "token": "****"
       },
@@ -122,11 +122,11 @@
     {
       "_id": "5d9365fda7be24285b8011ba",
       "type": "ucv-ext-jira",
-      "tenant_id": "5ade13625558f2c6688d15ce",
-      "name": "d_app 🚀 (Jira)",
+      "tenant_id": "123p498fp9832y4iuhsfu",
+      "name": "d_app (Jira)",
       "properties": {
         "baseUrl": "https://microservice.atlassian.net",
-        "username": "sylvain.carbonell@hcl.com",
+        "username": "demo@demo.com",
         "password": "****",
         "jiraProjects": [
           "DA"
@@ -136,7 +136,7 @@
       "latest": false,
       "startTime": 1569966673917,
       "status": "success",
-      "tenantId": "5ade13625558f2c6688d15ce"
+      "tenantId": "123p498fp9832y4iuhsfu"
     }
   ],
   "linkRules": [],

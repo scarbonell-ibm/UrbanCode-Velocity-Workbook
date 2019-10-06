@@ -10,4 +10,4 @@ After an integration is created in Velocity, it still needs added to a value str
   ]
 ```
 
-[![addIntegrations](addIntegrations.png)](https://www.youtube.com/watch?v=-PmYlqc30RA&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=7&t=0s)
+[![addIntegrations](addIntegrations.png)](https://www.youtube.com/watch?v=v9xGYUPUP-k&list=PLDq88EzQBSsAcitaMxyYapVhDeHQELxXC&index=7&t=0s)
